@@ -1,6 +1,4 @@
 #homework0
-This homework is simply used to check if all students know how to work with git and github (no credit).
-At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
 Hello, my name is KUAN-I LEE and my student ID is 104064510. I'm currently a new member of NVLab in NTHU, a lab which dedicated to image processing. Since I'm totally a freshman for now, still trying to get my head around CV's stuff. That is, a noob and fool, yet looking to be good and cool.
