@@ -4,7 +4,13 @@ At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
 
+Hello everyone,My mname is jack,I'm first year master degree student,stydying in NTHU EE from BIIC Lab.
+I am interested in playing basketball,sometimes I will play basketball with my friend,and watch movie in my free time.
+If you have the same interest as me,maybe we can play basketball together.
+
 ## Why Computer Vision? [max 500 words]
+
+
 
 ## What do you want to achieve in the course? [ max 500 words]
 
