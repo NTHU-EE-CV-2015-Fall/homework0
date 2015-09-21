@@ -10,9 +10,12 @@ If you have the same interest as me,maybe we can play basketball together.
 
 ## Why Computer Vision? [max 500 words]
 
-
-
+Because I am interested in Computer Vision. It's a popular project in recent years.
+ 
 ## What do you want to achieve in the course? [ max 500 words]
+ 
+Study knowledge about Computer Vision,helping about my project in feature slection by Computer Vision.
+
 
 PS. 中文 or English are both fine.
 
