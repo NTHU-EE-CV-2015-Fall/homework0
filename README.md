@@ -16,7 +16,6 @@ Because I am interested in Computer Vision. It's a popular project in recent yea
  
 Study knowledge about Computer Vision,helping about my project in feature slection by Computer Vision.
 
-
 PS. 中文 or English are both fine.
 
 ## Due Date: Sept. 23, 2015
