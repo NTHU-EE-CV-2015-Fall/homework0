@@ -20,6 +20,6 @@ I've seen a really interesting project related to Computer Vision built by SnapC
 Here's the link: https://www.facebook.com/teepr/videos/vb.1433215316907826/1711091172453571/?type=2&theater
 
 I'm looking forward to combine my mobile development skills and Computer Vision knowledge to rebuild this exciting project from scratch!
-PS. 中文 or English are both fine.
+
 
 ## Due Date: Sept. 23, 2015
