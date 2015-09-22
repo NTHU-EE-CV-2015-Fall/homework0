@@ -1,13 +1,9 @@
-#homework0
-This homework is simply used to check if all students know how to work with git and github (no credit).
-At the sametime, it also helps me to know you a little bit more :)
-
-## Brief self-introduction [max 500 words]
-
-## Why Computer Vision? [max 500 words]
-
-## What do you want to achieve in the course? [ max 500 words]
-
-PS. 中文 or English are both fine.
-
-## Due Date: Sept. 23, 2015
+Brief self-introduction [max 500 words]
+我大學就讀交通大學電機系，研究所推上清大電機，目前在劉奕汶老師的AHG實驗室，對於線性控制、影像處理都蠻有興趣的。
+Why Computer Vision? [max 500 words]
+我自己在大二的時候擔任交大攝影社社長，從靜態的照片開始上手，後來在教會接觸到影像後製，就愛上了多媒體製作，在老師網頁上看到許多影像問題還有影像特徵的擷取，對這些部分很感興趣。
+特別是影像穩定的部分，因為不瞭解原理或是該如何修改，所以往往就只能任由程式擺佈，常常調不出好的影像穩定效果。
+所以想透過這門課了解更多關於影像處理的技巧、更後續的發展性。
+What do you want to achieve in the course? [ max 500 words]
+我希望能夠把這門課學到的技巧，真的應用在我自己的影像剪輯上，或者是試著做出一個可以結合的可能性。
+附上我的作品：https://youtu.be/-jGvK24sNUU
