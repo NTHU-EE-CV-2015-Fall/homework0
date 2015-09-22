@@ -7,7 +7,7 @@ At the sametime, it also helps me to know you a little bit more :)
 選擇走資工方面的領域<br>
 現在跟資工系的陳煥宗老師做專題<br>
 因此多多少少對computer vision有些接觸<br>
-也有在做deep learning<br>
+也有在接觸deep learning<br>
 
 ## Why Computer Vision? [max 500 words]
 專題方面本來就需要用到CV方面的技術<br>
@@ -17,7 +17,8 @@ At the sametime, it also helps me to know you a little bit more :)
 聽說電機系也有開CV所以就跑來修啦<br>
 
 ## What do you want to achieve in the course? [ max 500 words]
-目前對recognition, segmentation, pose estimation都蠻有興趣的<br>
+目前對recognition, segmentation, pose estimation等等都蠻有興趣的<br>
+CV的範圍很廣，有很多我還不清楚或是沒聽過的東西，希望可以多多學習<br>
 也希望可聽到一些deep learning相關的東西<br>
 
 PS. 中文 or English are both fine.
