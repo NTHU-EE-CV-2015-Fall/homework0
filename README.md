@@ -9,7 +9,7 @@ At the sametime, it also helps me to know you a little bit more :)
   Becouse I study about Multimedia processing, I think computer vision will be very useful for me. I'm very glad to join this course.
  
 ## What do you want to achieve in the course? [ max 500 words]
-  I hope I can learn as more as I can. I'll try my best to achieve it.
+  I hope I can learn as more as I can in computer vision. I'll try my best to achieve it. I think it will be useful for me. 
  
 
 PS. 中文 or English are both fine.
